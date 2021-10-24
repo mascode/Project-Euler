@@ -20,7 +20,4 @@ def sumPrimes(n):
             primes += i
     return primes
 
-#print(sumPrimes(2000000))
-
-# Timing the code
-print(timeit.timeit("sumPrimes(2000000)", number=1, setup="from __main__ import sumPrimes"))
+print(sumPrimes(2000000))
