@@ -14,3 +14,15 @@ for i in x:
 
 # Print sum
 print("The sum of all multiples of 3 or 5 below 1000 is...", sum(sums))
+
+
+# Second solution, written as a function for taking in a user defined range
+def sums_below(n):
+    total = []
+    for numbers in range(1, n):
+        if numbers % 3 == 0 or numbers % 5 == 0:
+            total.append(numbers)
+    return sum(total)
+        
+
+print(sums_below(1000))
