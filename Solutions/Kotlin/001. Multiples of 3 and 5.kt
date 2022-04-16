@@ -10,8 +10,3 @@ fun main() {
     }
     println(sum)
 }
-
-
-
-
-
