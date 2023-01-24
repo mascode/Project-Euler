@@ -1,6 +1,6 @@
 # Project-Euler
 
-Solutions to the [Project Euler](https://projecteuler.net/) problems written in Python 3 (for now). I will be adding solutions as I solve the problems. These are by no means the most efficient algorithims or the best way of solving these problems, just my humble attempts.
+Solutions to the [Project Euler](https://projecteuler.net/) problems written in a variety of languages. I will be adding solutions as I solve the problems. These are by no means the most efficient algorithims or the best way of solving these problems, just my humble attempts.
 
 # What is Project Euler?
 
